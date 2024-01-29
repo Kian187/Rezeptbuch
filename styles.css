@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.recipe {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.ingredients, .instructions {
+    margin-top: 10px;
+}
+
+ul, ol {
+    margin-bottom: 0;
+}
+
+ul li, ol li {
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+
+h3 {
+    color: #008080;
+}
+
+/* Optional: Stile für Links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
